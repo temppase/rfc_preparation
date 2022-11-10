@@ -1,2 +1,2 @@
 # rfc_preparation
-[Random Forest prepararation](ML_preparation.html)
+[Random Forest prepararation](index.html)
