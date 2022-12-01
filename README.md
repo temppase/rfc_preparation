@@ -1,2 +1,2 @@
 # rfc_preparation
-[Random Forest prepararation](index.html)
+[Random Forest prepararation](https://temppase.github.io/rfc_preparation/)
